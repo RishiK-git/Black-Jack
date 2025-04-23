@@ -19,4 +19,4 @@ cd Black-Jack
 3. The main class to run the game is BlackJack.java
 
 ▶️ VIDEO DEMO: 
-(https://github.com/user-attachments/assets/8329f875-da80-4768-b34a-1f708df79fd6)
+https://github.com/user-attachments/assets/37695d8e-a3ad-4e19-a76b-b1df6d00f5f7
