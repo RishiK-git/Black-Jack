@@ -1,4 +1,4 @@
-A simple, text-based Blackjack game implemented in Java. This project was developed as part of a coding challenge for an internship application.
+A text-based Blackjack game implemented in Java. This project was developed as part of a coding challenge for an internship application.
 
 🎮 Features
 - Multiplayer gameplay: Play against a computer-controlled dealer and multiple users on one device in the console.
