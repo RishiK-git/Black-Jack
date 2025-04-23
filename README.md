@@ -17,3 +17,6 @@ git clone https://github.com/RishiK-git/Black-Jack.git
 cd Black-Jack
 
 3. The main class to run the game is BlackJack.java
+
+▶️ VIDEO DEMO: 
+[upload demo video for application](https://github.com/user-attachments/assets/8329f875-da80-4768-b34a-1f708df79fd6)
